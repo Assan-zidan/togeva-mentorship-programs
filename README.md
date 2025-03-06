@@ -43,13 +43,12 @@ Ce projet est un exemple de page web simple créée avec HTML5. Il sert de suppo
 
 ## Comment utiliser ce projet
 
-1. **Téléchargez le fichier HTML** :
-   - Copiez le code dans un fichier nommé `index.html`.
+1. **Clonez ce dépôt sur votre machine** 
 
-2. **Ouvrez le fichier dans un navigateur** :
-   - Double-cliquez sur le fichier pour le visualiser.
+2. **Ouvrez le fichier index.html dans un navigateur pour voir la page web.** :
+   - Double-cliquez sur le fichier index.html pour le visualiser.
 
-3. **Modifiez et expérimentez** :
+3. **Explorez le code pour comprendre comment les balises HTML5 sont utilisées.** :
    - Changez le texte, ajoutez de nouvelles images ou vidéos.
    - Explorez d'autres balises HTML5.
 
@@ -64,7 +63,7 @@ Ce projet est un exemple de page web simple créée avec HTML5. Il sert de suppo
 ---
 
 ## Auteur 
-Nsangou Assan Zidan [Mon porfolio](https://www.assanzidan.dev)
+Nsangou Assan Zidan [Mon porfolio](https://www.assanzidan.dev). 
 Ce projet a été créé dans le cadre d'un programme de mentorat en développement web.
 
 ---
